@@ -1,0 +1,18 @@
+{
+    "id": 1198,
+    "name": "Dog Tick",
+    "author": "Mischief",
+    "creators": ["Mischief"],
+    "verifier": "Mischief",
+    "verification": "https://youtu.be/CJ6yEan5GKE",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Upsilony",
+            "link": "https://youtu.be/CJ6yEan5GKE",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}
